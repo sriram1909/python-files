@@ -1,1 +1,5 @@
 print("Hello, world")
+#code for adding two numbers
+"""a=3
+b=4
+print(a+b)"""
